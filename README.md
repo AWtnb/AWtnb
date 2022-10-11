@@ -1,10 +1,6 @@
 + Name: Akira Watanabe
-+ Working at a publisher.
++ 神保町の出版社で働いています。
 + [Qiita](https://qiita.com/AWtnb)（ほぼ更新停止）
 + [Zenn](https://zenn.dev/awtnb)
 
-<!-- リポジトリステータス -->
-[![AWtnb's github stats](https://github-readme-stats.vercel.app/api?username=AWtnb&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/AWtnb/)
-
-<!-- ソースコード統計 -->
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AWtnb&layout=compact&theme=tokyonight)](https://github.com/AWtnb/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AWtnb&layout=compact&theme=ayu-mirage)](https://github.com/AWtnb/)
