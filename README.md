@@ -3,4 +3,4 @@
 + [Qiita](https://qiita.com/AWtnb)（ほぼ更新停止）
 + [Zenn](https://zenn.dev/awtnb)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AWtnb&layout=compact&theme=ayu-mirage)](https://github.com/AWtnb/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AWtnb&layout=compact&theme=bear)](https://github.com/AWtnb/)
