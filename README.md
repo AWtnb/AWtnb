@@ -1,5 +1,6 @@
 + Name: Akira Watanabe
 + 神保町の出版社で働いています。
++ [VSCode extensions](https://marketplace.visualstudio.com/publishers/awtnb)
 + [Qiita](https://qiita.com/AWtnb)（ほぼ更新停止）
 + [Zenn](https://zenn.dev/awtnb)
 
