@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AWtnb&layout=compact&theme=bear)](https://github.com/AWtnb/)
 
-##  Albums
+##  📸
 
 + [kamakura (2019)](https://awtnb-album-2019-kamakura.netlify.app/)
 + [sakura (2021)](https://awtnb-album-2021-sakura.netlify.app/)
