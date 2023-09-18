@@ -16,3 +16,4 @@ Name: Akira Watanabe
 + [Kobe (2022)](https://awtnb-album-2022-09-kobe.netlify.app/)
 + [sakura (2023)](https://awtnb-album-2023-03-sakura.netlify.app/)
 + [Kyoto (2023)](https://awtnb-album-2023-07-kyoto.netlify.app/)
++ [Kobe (2023)](https://awtnb-album-2023-09-kobe.netlify.app/)
