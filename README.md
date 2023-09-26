@@ -9,6 +9,8 @@ Name: Akira Watanabe
 
 ##  📸
 
+Albumbs with [moul](https://github.com/moul-co/moul):
+
 + [Kamakura (2019)](https://awtnb-album-2019-kamakura.netlify.app/)
 + [sakura (2021)](https://awtnb-album-2021-sakura.netlify.app/)
 + [seaparadise (2022)](https://awtnb-album-2022-03-seaparadise.netlify.app/)
@@ -17,3 +19,5 @@ Name: Akira Watanabe
 + [sakura (2023)](https://awtnb-album-2023-03-sakura.netlify.app/)
 + [Kyoto (2023)](https://awtnb-album-2023-07-kyoto.netlify.app/)
 + [Kobe (2023)](https://awtnb-album-2023-09-kobe.netlify.app/)
+
+ More recent photos are on [PixelFed](https://pixelfed.tokyo/i/web/profile/611921294785326526).
