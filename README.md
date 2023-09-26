@@ -9,7 +9,7 @@ Name: Akira Watanabe
 
 ##  📸
 
-(Very heavy) Albumbs with [moul](https://github.com/moul-co/moul):
+(Very heavy) slbumbs with [moul](https://github.com/moul-co/moul):
 
 + [Kamakura (2019)](https://awtnb-album-2019-kamakura.netlify.app/)
 + [sakura (2021)](https://awtnb-album-2021-sakura.netlify.app/)
@@ -20,4 +20,4 @@ Name: Akira Watanabe
 + [Kyoto (2023)](https://awtnb-album-2023-07-kyoto.netlify.app/)
 + [Kobe (2023)](https://awtnb-album-2023-09-kobe.netlify.app/)
 
- More recent photos are on [PixelFed](https://pixelfed.social/awtnbjp).
+ Recent photos are on [PixelFed](https://pixelfed.social/awtnbjp).
