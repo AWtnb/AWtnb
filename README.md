@@ -20,4 +20,4 @@ Name: Akira Watanabe
 + [Kyoto (2023)](https://awtnb-album-2023-07-kyoto.netlify.app/)
 + [Kobe (2023)](https://awtnb-album-2023-09-kobe.netlify.app/)
 
- More recent photos are on [PixelFed](https://pixelfed.tokyo/i/web/profile/611921294785326526).
+ More recent photos are on [PixelFed](https://pixelfed.social/i/web/profile/612177492827653109).
