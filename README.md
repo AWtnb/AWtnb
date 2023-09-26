@@ -9,7 +9,7 @@ Name: Akira Watanabe
 
 ##  📸
 
-Albumbs with [moul](https://github.com/moul-co/moul):
+(Very heavy) Albumbs with [moul](https://github.com/moul-co/moul):
 
 + [Kamakura (2019)](https://awtnb-album-2019-kamakura.netlify.app/)
 + [sakura (2021)](https://awtnb-album-2021-sakura.netlify.app/)
