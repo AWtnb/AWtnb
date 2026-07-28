@@ -6,7 +6,7 @@ Name: Akira Watanabe
 - [Qiita](https://qiita.com/AWtnb)（ほぼ更新停止）
 - [Zenn](https://zenn.dev/awtnb)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AWtnb&layout=compact&theme=tokyonight)](https://github.com/AWtnb/)
+[![AWtnb's GitHub stats](https://github-stats-extended.vercel.app/api/top-langs/?username=AWtnb&layout=compact&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
 
 ##  📸
 
